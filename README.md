@@ -8,10 +8,9 @@
 
 👨🏻‍💻 My dream job is at a product company, fully remote or remote first, within a smallish, supportive team, working with a fairly modern tech stack, where I can keep on learning and honing my skills.
 
-<div style="display:flex;align-items:center;margin:2rem 0;">
-    <span style="font-size: 30px;">💖</span>&nbsp;&nbsp;
-    <a href="https://git.io/typing-svg" style="display:inline-flex;align-items:center;" title="frontend+development, remote work, UX, FrontendOps, content+marketing, Nrwl+Nx. -Made with Typing SVG."><img src="https://readme-typing-svg.herokuapp.com?color=913CD2&size=30&vCenter=true&lines=frontend+development;UX;FrontendOps;content+marketing;Nrwl+Nx" /></a>
-</div>
+## What I love (in tech)
+
+<a href="https://git.io/typing-svg" style="display:inline-flex;align-items:center;" title="frontend+development, remote work, UX, FrontendOps, content+marketing, Nrwl+Nx. -Made with Typing SVG."><img src="https://readme-typing-svg.herokuapp.com?color=913CD2&size=30&vCenter=true&lines=frontend+development;UX;FrontendOps;content+marketing;Nrwl+Nx" /></a>
 
 ## Highlights
 
