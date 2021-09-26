@@ -2,7 +2,11 @@
 
 👋🏻 Hey, please call me Will.
 
-🐣 Born in 1977 in Italy, I never stopped growing since.  
+🐣 Born in 1977 in Italy, I never stopped growing since.
+
+☎️ I started programming in 1986.  
+💻 Professionally in 2000.  
+💅🏻 As a frontend developer in 2004.
 
 🔮 I see myself coding till I die, all the while sharing my knowledge, helping newcomers grow, leading technical advancements and transformations, contributing to Open Source.
 
@@ -10,7 +14,7 @@
 
 ## What I love (in tech)
 
-<a href="https://git.io/typing-svg" style="display:inline-flex;align-items:center;" title="frontend+development, remote work, UX, FrontendOps, content+marketing, Nrwl+Nx. -Made with Typing SVG."><img src="https://readme-typing-svg.herokuapp.com?color=913CD2&size=30&vCenter=true&lines=frontend+development;UX;FrontendOps;content+marketing;Nrwl+Nx" /></a>
+<a href="https://git.io/typing-svg" style="display:inline-flex;align-items:center;" title="frontend+development, remote work, UX, FrontendOps, content+marketing, a11y, Nrwl+Nx. -Made with Typing SVG."><img src="https://readme-typing-svg.herokuapp.com?color=913CD2&size=30&vCenter=true&lines=frontend+development;UX;FrontendOps;content+marketing;a11y;Nrwl+Nx" /></a>
 
 ## Highlights
 
