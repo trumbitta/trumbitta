@@ -7,6 +7,7 @@
 ☎️ I started programming in 1986.  
 💻 Professionally in 2000.  
 💅🏻 As a frontend developer in 2004.
+⛑ I'm also interested in [DevX](https://devxconf.org/).
 
 🔮 I see myself coding till I die, all the while sharing my knowledge, helping newcomers grow, leading technical advancements and transformations, contributing to Open Source.
 
