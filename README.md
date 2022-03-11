@@ -11,7 +11,7 @@
 
 🔮 I see myself coding till I die, all the while sharing my knowledge, helping newcomers grow, leading technical advancements and transformations, contributing to Open Source.
 
-👨🏻‍💻 My dream job is at a product company, fully remote or remote first, within a smallish, supportive team, working with a fairly modern tech stack, where I can keep on learning and honing my skills.
+👨🏻‍💻 My dream job is at a product company, where I can express my love and attention for my users, fully remote or remote first, within a smallish, supportive team, working with a fairly modern tech stack, where I can keep on learning and honing my skills.
 
 🍊 I am a [Gitpod](https://github.com/gitpod-io) Community Hero 🦸🏻.
 
