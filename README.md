@@ -13,7 +13,8 @@
 
 👨🏻‍💻 My dream job is at a product company, where I can express my love and attention for my users, fully remote or remote first, within a smallish, supportive team, working with a fairly modern tech stack, where I can keep on learning and honing my skills.
 
-🍊 I am a [Gitpod](https://github.com/gitpod-io) Community Hero 🦸🏻.
+🍊 I am a [Gitpod](https://github.com/gitpod-io) Community Hero 🦸🏻.  
+🐬 I am a [Nx](https://github.com/nrwl/nx) Champion ⚔️. 
 
 ## What I love (in tech)
 
@@ -26,7 +27,6 @@
 
 ## And now, more bullet points because I'm lazy
 
-🌱 I’m currently learning more and more each day about [Nx](https://github.com/nrwl/nx)  
 📫 Reach me at: https://twitter.com/trumbitta  
 💬 Ask me about anything really  
-⚡ Fun fact: I am a published poet
+⚡ Fun fact: I am a published poet, and I'm writing a dystopian sci-fi novel at https://williamghelfi.com
